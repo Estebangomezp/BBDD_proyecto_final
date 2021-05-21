@@ -1,4 +1,17 @@
  -- Algunas vistas sobre la base de datos
+ 
+-- Mayo de 2021
+-- Autor: Esteban Gómez Palomo
+-- email: egp.curso.bbdd@gmail.com
+-- Ningún derecho reservado.
+-- Este trabajo se ha realizado en el marco del curso CERTIFICADO ADMINISTRACIÓN Y GESTIÓN DE BBDD 18/6809
+-- de la Comunidad de Madrid.
+
+-- DESCARGA DE RESPONSABILIDAD.
+-- Todos los datos contenidos en ésta base de datos son DUMMY, es decir, se han obtenido de forma aleatoria en fuentes públicas como
+-- el INE, de resivistas sectoriales e Internet, y haciendo uso de funciones como RAND() o ALEATORIO.ENTRE().
+-- 
+
 
 
 CREATE VIEW Contactos_Tecnicos_Activos as 
